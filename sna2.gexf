@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='http://www.gexf.net/1.2draft' version='1.2'>
+<meta lastmodifieddate='2009-03-20'>
+<creator>Juan Pedro Cerro Martínez</creator>
+        <description>Generador de fitxers GEXF a partir d'espais de comunicació de la UOC en format d'aula nova</description>
+</meta>
+<graph mode='static' defaultedgetype='directed'>
+<nodes>
+<node id="773389340" label="Juan Pedro Cerro Martinez"></node>
+<node id="773389575" label="Juan Pedro Cerro Martinez"></node>
+<node id="773389873" label="Juan Pedro Cerro Martinez"></node>
+<node id="773390031" label="Juan Pedro Cerro Martinez"></node>
+<node id="773391013" label="Juan Pedro Cerro Martinez"></node>
+<node id="773398217" label="Sara Jasmín Barud Dabrowski"></node>
+<node id="773419213" label="Javier Polo Rodríguez"></node>
+<node id="773428140" label="Sara Delgado Rivero"></node>
+<node id="773430915" label="María del Sol González Romero"></node>
+<node id="773437686" label="Laura Cano Medina"></node>
+<node id="773445820" label="Víctor Mallén Herráiz"></node>
+<node id="773496627" label="Fernando Palomino Padilla"></node>
+<node id="773501362" label="Nuria Saez Brotons"></node>
+<node id="773503405" label="Laura Cano Medina"></node>
+<node id="773505818" label="Ana Moya González"></node>
+<node id="773509520" label="Jaael Adriana Otero Muñoz"></node>
+<node id="773511386" label="Laura Cano Medina"></node>
+<node id="773514025" label="Jorge Antonio Cobo Roldán"></node>
+<node id="773518871" label="Antonio Pérez Villaescusa"></node>
+<node id="773519637" label="Andrea Adalid Martínez"></node>
+<node id="773524525" label="Jaael Adriana Otero Muñoz"></node>
+<node id="773525251" label="Antonio Pérez Villaescusa"></node>
+<node id="773530447" label="Fabio Serrano Santa-Barbara"></node>
+<node id="773538839" label="Araceli López Martínez"></node>
+<node id="773542034" label="María Elena Martínez García"></node>
+<node id="773555974" label="Araceli López Martínez"></node>
+<node id="773558138" label="Sara Jasmín Barud Dabrowski"></node>
+<node id="773608304" label="Irene Tagliati Tagliati"></node>
+<node id="773611350" label="Irene Tagliati Tagliati"></node>
+<node id="773621592" label="Víctor Mallén Herráiz"></node>
+<node id="773623363" label="Isabel Casanova Ferrandis"></node>
+<node id="773623364" label="Isabel Casanova Ferrandis"></node>
+<node id="773636444" label="Vicente Rodriguez Gelardo"></node>
+<node id="773638595" label="Paula Torres Sánchez"></node>
+<node id="773640231" label="Irene Tagliati Tagliati"></node>
+<node id="773652009" label="Paula Torres Sánchez"></node>
+<node id="773659419" label="Paula Torres Sánchez"></node>
+<node id="773716604" label="Isabel Casanova Ferrandis"></node>
+<node id="773724860" label="Andrea Saquero Ros"></node>
+<node id="773728978" label="Diego Ortega Picazo"></node>
+<node id="773740458" label="Jaael Adriana Otero Muñoz"></node>
+<node id="773867364" label="Cristian Navarro Collado"></node>
+<node id="773870058" label="Rebeca Fernández González"></node>
+<node id="773885564" label="Sandra Brotons López"></node>
+<node id="773885610" label="Carolina Medina García"></node>
+<node id="773888262" label="Javier Polo Rodríguez"></node>
+<node id="773895920" label="Irene Tagliati Tagliati"></node>
+<node id="773905439" label="Héctor Díaz-Bernardos Gómez"></node>
+<node id="773960872" label="Isabel Casanova Ferrandis"></node>
+<node id="773962641" label="Cora Honrubia Sáez"></node>
+<node id="773968600" label="Diego Ortega Picazo"></node>
+<node id="773970799" label="Vicente Rodriguez Gelardo"></node>
+<node id="773971721" label="Vicente Rodriguez Gelardo"></node>
+<node id="773983836" label="Sara Garcia Catalina"></node>
+<node id="773990891" label="Mario Gallardo Robles"></node>
+<node id="773998703" label="José Manuel Alfaro Ruiz"></node>
+<node id="774033149" label="Javier Dura Fernandez"></node>
+<node id="774087877" label="Rebeca Fernández González"></node>
+<node id="774088340" label="Rebeca Fernández González"></node>
+<node id="774109492" label="Isaac Vara Rodríguez"></node>
+<node id="774126147" label="Rocio Gomez Martinez"></node>
+<node id="774132746" label="Rocio Gomez Martinez"></node>
+<node id="774136379" label="Eva Claver Perez"></node>
+<node id="774150320" label="Eva Claver Perez"></node>
+<node id="774153410" label="Jaael Adriana Otero Muñoz"></node>
+<node id="774160828" label="Carlos Pérez de la Lastra Cañete"></node>
+<node id="774163035" label="Araceli López Martínez"></node>
+<node id="774168236" label="Nuria Saez Brotons"></node>
+<node id="774169876" label="José Pascual Haro Flores"></node>
+<node id="774183326" label="María Araceli Caballero García"></node>
+<node id="774214781" label="Fernando Palomino Padilla"></node>
+<node id="774222229" label="José Manuel Alfaro Ruiz"></node>
+<node id="774227207" label="Regina Martín Flores"></node>
+<node id="774231472" label="Regina Martín Flores"></node>
+<node id="774237306" label="Irene Vicente Villagrasa"></node>
+<node id="774241184" label="Margarita Sempere Andreu"></node>
+<node id="774246289" label="Nadia Brito Melado"></node>
+<node id="774259687" label="Nadia Brito Melado"></node>
+<node id="774260016" label="Serafin Aparicio Sanchez"></node>
+<node id="774260229" label="José Miguel López Aroca"></node>
+<node id="774260439" label="Ana Belen Puentes Barberá"></node>
+<node id="774270878" label="Macarena Salguero García"></node>
+<node id="774273759" label="Eva Claver Perez"></node>
+<node id="774274702" label="Macarena Salguero García"></node>
+<node id="774304363" label="Sara Guillén Martín"></node>
+<node id="774307434" label="Sara Guillén Martín"></node>
+<node id="774309180" label="Sara Guillén Martín"></node>
+<node id="774310984" label="Sara Guillén Martín"></node>
+<node id="774312112" label="María del Sol González Romero"></node>
+<node id="774317890" label="Regina Martín Flores"></node>
+<node id="774322627" label="Rocio Gomez Martinez"></node>
+<node id="774343323" label="Yeny Paola Herrera Mendoza"></node>
+<node id="774352140" label="Sara Delgado Rivero"></node>
+<node id="774353794" label="Yeny Paola Herrera Mendoza"></node>
+<node id="774355680" label="Beatriz Rodríguez García 1013758"></node>
+<node id="774356577" label="Yeny Paola Herrera Mendoza"></node>
+<node id="774362346" label="José Pascual Haro Flores"></node>
+<node id="774364772" label="José Pascual Haro Flores"></node>
+<node id="774385774" label="Carolina Medina García"></node>
+<node id="774386710" label="Pablo Ángel González Pons"></node>
+<node id="774388441" label="Yeny Paola Herrera Mendoza"></node>
+<node id="774389833" label="José Manuel Alfaro Ruiz"></node>
+<node id="774390770" label="José Manuel Alfaro Ruiz"></node>
+<node id="774401629" label="Emilio Duque Redondo"></node>
+<node id="774402414" label="Rodolfo Beño Mateos"></node>
+<node id="774418381" label="Diego Ortega Picazo"></node>
+<node id="774423795" label="Diego Ortega Picazo"></node>
+<node id="774445829" label="Socorro Fajardo Natez"></node>
+<node id="774476208" label="Tamara Urda Rizos"></node>
+<node id="774482429" label="Paula Torres Sánchez"></node>
+<node id="774486673" label="Ana Moya González"></node>
+<node id="774500936" label="Víctor Mallén Herráiz"></node>
+<node id="774536811" label="Andrea Adalid Martínez"></node>
+<node id="774538752" label="Sandra Brotons López"></node>
+<node id="774565153" label="Carlos Pérez de la Lastra Cañete"></node>
+<node id="774566289" label="Antonio Pérez Villaescusa"></node>
+<node id="774576945" label="José Miguel López Aroca"></node>
+<node id="774580366" label="Andrea Saquero Ros"></node>
+<node id="774589478" label="Sara Jasmín Barud Dabrowski"></node>
+<node id="774589631" label="Isabel Casanova Ferrandis"></node>
+<node id="774591969" label="Cristian Navarro Collado"></node>
+<node id="774604331" label="Jaael Adriana Otero Muñoz"></node>
+<node id="774636474" label="Gara Tania Delgado Díaz"></node>
+<node id="774670044" label="Pablo Ángel González Pons"></node>
+<node id="774670745" label="Pablo Ángel González Pons"></node>
+<node id="774685584" label="Sandra Curado Lopez"></node>
+<node id="774713542" label="Héctor Díaz-Bernardos Gómez"></node>
+<node id="774735092" label="Irene Vicente Villagrasa"></node>
+<node id="774739204" label="Ana Belen Puentes Barberá"></node>
+<node id="774743928" label="Javier Dura Fernandez"></node>
+<node id="774757831" label="Cristian Navarro Collado"></node>
+<node id="774768766" label="Enrique García Pérez"></node>
+<node id="774870021" label="Eva Claver Perez"></node>
+<node id="774876972" label="Sara Jasmín Barud Dabrowski"></node>
+<node id="774888867" label="Concepcion Farinos Peris"></node>
+<node id="774910025" label="Nuria Saez Brotons"></node>
+<node id="774915548" label="Jorge Antonio Cobo Roldán"></node>
+<node id="774925573" label="José Pascual Haro Flores"></node>
+<node id="774933469" label="Regina Martín Flores"></node>
+<node id="774938143" label="Fabio Serrano Santa-Barbara"></node>
+<node id="774944471" label="Beatriz Rodríguez García 1013758"></node>
+<node id="774966339" label="Ana Moya González"></node>
+<node id="775022349" label="Margarita Sempere Andreu"></node>
+<node id="775022767" label="Serafin Aparicio Sanchez"></node>
+<node id="775030256" label="Javier Polo Rodríguez"></node>
+<node id="775034245" label="Víctor Mallén Herráiz"></node>
+<node id="775047506" label="Isaac Vara Rodríguez"></node>
+<node id="775065377" label="Isaac Vara Rodríguez"></node>
+<node id="775068914" label="Nuria Saez Brotons"></node>
+<node id="775070471" label="Pablo García Mena 1012435"></node>
+<node id="775072587" label="Héctor Díaz-Bernardos Gómez"></node>
+<node id="775101716" label="Héctor Díaz-Bernardos Gómez"></node>
+<node id="775108369" label="Sandra Brotons López"></node>
+<node id="775157712" label="Macarena Salguero García"></node>
+<node id="775160643" label="Araceli López Martínez"></node>
+<node id="775161371" label="Mario Gallardo Robles"></node>
+<node id="775161454" label="Nadia Brito Melado"></node>
+<node id="775164947" label="Miguel Barreto Hernández"></node>
+<node id="775176133" label="Luciana Fernanda Mayumi Pereira"></node>
+<node id="775194873" label="Araceli López Martínez"></node>
+<node id="775195687" label="Maria del Pilar Solis Padial"></node>
+<node id="775205702" label="Gara Tania Delgado Díaz"></node>
+<node id="775206844" label="Isabel Casanova Ferrandis"></node>
+<node id="775212510" label="Gara Tania Delgado Díaz"></node>
+<node id="775226558" label="Fernando Palomino Padilla"></node>
+<node id="775238091" label="Jaael Adriana Otero Muñoz"></node>
+<node id="775238732" label="José Miguel López Aroca"></node>
+<node id="775240954" label="Ana Belen Puentes Barberá"></node>
+<node id="775245354" label="Jaael Adriana Otero Muñoz"></node>
+<node id="775248415" label="Aida Beteta Corvillo"></node>
+<node id="775248640" label="Aida Beteta Corvillo"></node>
+<node id="775249824" label="Sara Jasmín Barud Dabrowski"></node>
+<node id="775252768" label="José Pascual Haro Flores"></node>
+<node id="775255009" label="Serafin Aparicio Sanchez"></node>
+<node id="775256284" label="Aida Beteta Corvillo"></node>
+<node id="775257612" label="Nadia Brito Melado"></node>
+<node id="775258314" label="Nadia Brito Melado"></node>
+<node id="775259819" label="Jorge Antonio Cobo Roldán"></node>
+<node id="775268430" label="Macarena Salguero García"></node>
+<node id="775272832" label="Eva Claver Perez"></node>
+</nodes>
+<edges>
+<edge source="773419213" target="773389340" type="directed" id="0" weight="1"></edge>
+<edge source="773428140" target="773389575" type="directed" id="1" weight="1"></edge>
+<edge source="773430915" target="773390031" type="directed" id="2" weight="1"></edge>
+<edge source="773445820" target="773389575" type="directed" id="3" weight="1"></edge>
+<edge source="773496627" target="773391013" type="directed" id="4" weight="1"></edge>
+<edge source="773501362" target="773391013" type="directed" id="5" weight="1"></edge>
+<edge source="773505818" target="773398217" type="directed" id="6" weight="1"></edge>
+<edge source="773509520" target="773389575" type="directed" id="7" weight="1"></edge>
+<edge source="773514025" target="773389575" type="directed" id="8" weight="1"></edge>
+<edge source="773524525" target="773391013" type="directed" id="9" weight="1"></edge>
+<edge source="773525251" target="773419213" type="directed" id="10" weight="1"></edge>
+<edge source="773530447" target="773389873" type="directed" id="11" weight="1"></edge>
+<edge source="773538839" target="773391013" type="directed" id="12" weight="1"></edge>
+<edge source="773555974" target="773390031" type="directed" id="13" weight="1"></edge>
+<edge source="773558138" target="773390031" type="directed" id="14" weight="1"></edge>
+<edge source="773608304" target="773391013" type="directed" id="15" weight="1"></edge>
+<edge source="773611350" target="773389873" type="directed" id="16" weight="1"></edge>
+<edge source="773621592" target="773389873" type="directed" id="17" weight="1"></edge>
+<edge source="773623363" target="773538839" type="directed" id="18" weight="1"></edge>
+<edge source="773623364" target="773538839" type="directed" id="19" weight="1"></edge>
+<edge source="773636444" target="773519637" type="directed" id="20" weight="1"></edge>
+<edge source="773638595" target="773390031" type="directed" id="21" weight="1"></edge>
+<edge source="773640231" target="773389340" type="directed" id="22" weight="1"></edge>
+<edge source="773716604" target="773511386" type="directed" id="23" weight="1"></edge>
+<edge source="773724860" target="773525251" type="directed" id="24" weight="1"></edge>
+<edge source="773728978" target="773391013" type="directed" id="25" weight="1"></edge>
+<edge source="773740458" target="773640231" type="directed" id="26" weight="1"></edge>
+<edge source="773867364" target="773511386" type="directed" id="27" weight="1"></edge>
+<edge source="773870058" target="773390031" type="directed" id="28" weight="1"></edge>
+<edge source="773885610" target="773389340" type="directed" id="29" weight="1"></edge>
+<edge source="773888262" target="773555974" type="directed" id="30" weight="1"></edge>
+<edge source="773895920" target="773716604" type="directed" id="31" weight="1"></edge>
+<edge source="773905439" target="773542034" type="directed" id="32" weight="1"></edge>
+<edge source="773960872" target="773389873" type="directed" id="33" weight="1"></edge>
+<edge source="773962641" target="773885564" type="directed" id="34" weight="1"></edge>
+<edge source="773968600" target="773389340" type="directed" id="35" weight="1"></edge>
+<edge source="773970799" target="773398217" type="directed" id="36" weight="1"></edge>
+<edge source="773983836" target="773885610" type="directed" id="37" weight="1"></edge>
+<edge source="773990891" target="773503405" type="directed" id="38" weight="1"></edge>
+<edge source="773998703" target="773542034" type="directed" id="39" weight="1"></edge>
+<edge source="774033149" target="773391013" type="directed" id="40" weight="1"></edge>
+<edge source="774087877" target="773895920" type="directed" id="41" weight="1"></edge>
+<edge source="774088340" target="774087877" type="directed" id="42" weight="1"></edge>
+<edge source="774109492" target="773542034" type="directed" id="43" weight="1"></edge>
+<edge source="774126147" target="773501362" type="directed" id="44" weight="1"></edge>
+<edge source="774136379" target="773501362" type="directed" id="45" weight="1"></edge>
+<edge source="774150320" target="774087877" type="directed" id="46" weight="1"></edge>
+<edge source="774153410" target="773716604" type="directed" id="47" weight="1"></edge>
+<edge source="774160828" target="773638595" type="directed" id="48" weight="1"></edge>
+<edge source="774163035" target="773390031" type="directed" id="49" weight="1"></edge>
+<edge source="774168236" target="774132746" type="directed" id="50" weight="1"></edge>
+<edge source="774169876" target="773391013" type="directed" id="51" weight="1"></edge>
+<edge source="774183326" target="774168236" type="directed" id="52" weight="1"></edge>
+<edge source="774214781" target="773728978" type="directed" id="53" weight="1"></edge>
+<edge source="774222229" target="773971721" type="directed" id="54" weight="1"></edge>
+<edge source="774227207" target="773519637" type="directed" id="55" weight="1"></edge>
+<edge source="774231472" target="773885610" type="directed" id="56" weight="1"></edge>
+<edge source="774237306" target="773983836" type="directed" id="57" weight="1"></edge>
+<edge source="774241184" target="773885610" type="directed" id="58" weight="1"></edge>
+<edge source="774246289" target="773389873" type="directed" id="59" weight="1"></edge>
+<edge source="774259687" target="774132746" type="directed" id="60" weight="1"></edge>
+<edge source="774260016" target="773640231" type="directed" id="61" weight="1"></edge>
+<edge source="774260229" target="773390031" type="directed" id="62" weight="1"></edge>
+<edge source="774270878" target="774160828" type="directed" id="63" weight="1"></edge>
+<edge source="774273759" target="774183326" type="directed" id="64" weight="1"></edge>
+<edge source="774274702" target="774163035" type="directed" id="65" weight="1"></edge>
+<edge source="774304363" target="773728978" type="directed" id="66" weight="1"></edge>
+<edge source="774307434" target="774241184" type="directed" id="67" weight="1"></edge>
+<edge source="774309180" target="774260439" type="directed" id="68" weight="1"></edge>
+<edge source="774310984" target="774183326" type="directed" id="69" weight="1"></edge>
+<edge source="774312112" target="773728978" type="directed" id="70" weight="1"></edge>
+<edge source="774317890" target="773971721" type="directed" id="71" weight="1"></edge>
+<edge source="774322627" target="774132746" type="directed" id="72" weight="1"></edge>
+<edge source="774343323" target="773888262" type="directed" id="73" weight="1"></edge>
+<edge source="774352140" target="773990891" type="directed" id="74" weight="1"></edge>
+<edge source="774353794" target="773391013" type="directed" id="75" weight="1"></edge>
+<edge source="774355680" target="774260439" type="directed" id="76" weight="1"></edge>
+<edge source="774356577" target="774214781" type="directed" id="77" weight="1"></edge>
+<edge source="774362346" target="774169876" type="directed" id="78" weight="1"></edge>
+<edge source="774364772" target="774222229" type="directed" id="79" weight="1"></edge>
+<edge source="774385774" target="773542034" type="directed" id="80" weight="1"></edge>
+<edge source="774386710" target="774310984" type="directed" id="81" weight="1"></edge>
+<edge source="774388441" target="774310984" type="directed" id="82" weight="1"></edge>
+<edge source="774389833" target="774353794" type="directed" id="83" weight="1"></edge>
+<edge source="774401629" target="773389873" type="directed" id="84" weight="1"></edge>
+<edge source="774402414" target="774168236" type="directed" id="85" weight="1"></edge>
+<edge source="774418381" target="774214781" type="directed" id="86" weight="1"></edge>
+<edge source="774423795" target="774260439" type="directed" id="87" weight="1"></edge>
+<edge source="774445829" target="773518871" type="directed" id="88" weight="1"></edge>
+<edge source="774476208" target="773496627" type="directed" id="89" weight="1"></edge>
+<edge source="774482429" target="774388441" type="directed" id="90" weight="1"></edge>
+<edge source="774486673" target="773391013" type="directed" id="91" weight="1"></edge>
+<edge source="774500936" target="774132746" type="directed" id="92" weight="1"></edge>
+<edge source="774536811" target="774260439" type="directed" id="93" weight="1"></edge>
+<edge source="774538752" target="773728978" type="directed" id="94" weight="1"></edge>
+<edge source="774565153" target="773971721" type="directed" id="95" weight="1"></edge>
+<edge source="774576945" target="774132746" type="directed" id="96" weight="1"></edge>
+<edge source="774580366" target="774132746" type="directed" id="97" weight="1"></edge>
+<edge source="774589478" target="774163035" type="directed" id="98" weight="1"></edge>
+<edge source="774589631" target="773962641" type="directed" id="99" weight="1"></edge>
+<edge source="774591969" target="773971721" type="directed" id="100" weight="1"></edge>
+<edge source="774604331" target="774500936" type="directed" id="101" weight="1"></edge>
+<edge source="774636474" target="773983836" type="directed" id="102" weight="1"></edge>
+<edge source="774670044" target="774309180" type="directed" id="103" weight="1"></edge>
+<edge source="774670745" target="774670044" type="directed" id="104" weight="1"></edge>
+<edge source="774713542" target="774246289" type="directed" id="105" weight="1"></edge>
+<edge source="774735092" target="774163035" type="directed" id="106" weight="1"></edge>
+<edge source="774739204" target="774670745" type="directed" id="107" weight="1"></edge>
+<edge source="774743928" target="774260439" type="directed" id="108" weight="1"></edge>
+<edge source="774757831" target="774132746" type="directed" id="109" weight="1"></edge>
+<edge source="774768766" target="773971721" type="directed" id="110" weight="1"></edge>
+<edge source="774870021" target="774685584" type="directed" id="111" weight="1"></edge>
+<edge source="774876972" target="774735092" type="directed" id="112" weight="1"></edge>
+<edge source="774888867" target="773391013" type="directed" id="113" weight="1"></edge>
+<edge source="774915548" target="774183326" type="directed" id="114" weight="1"></edge>
+<edge source="774925573" target="774713542" type="directed" id="115" weight="1"></edge>
+<edge source="774933469" target="774910025" type="directed" id="116" weight="1"></edge>
+<edge source="774938143" target="774685584" type="directed" id="117" weight="1"></edge>
+<edge source="774944471" target="774685584" type="directed" id="118" weight="1"></edge>
+<edge source="774966339" target="774260439" type="directed" id="119" weight="1"></edge>
+<edge source="775022349" target="773390031" type="directed" id="120" weight="1"></edge>
+<edge source="775022767" target="774445829" type="directed" id="121" weight="1"></edge>
+<edge source="775030256" target="774933469" type="directed" id="122" weight="1"></edge>
+<edge source="775034245" target="774910025" type="directed" id="123" weight="1"></edge>
+<edge source="775047506" target="774486673" type="directed" id="124" weight="1"></edge>
+<edge source="775068914" target="773389575" type="directed" id="125" weight="1"></edge>
+<edge source="775070471" target="774423795" type="directed" id="126" weight="1"></edge>
+<edge source="775101716" target="774925573" type="directed" id="127" weight="1"></edge>
+<edge source="775108369" target="774685584" type="directed" id="128" weight="1"></edge>
+<edge source="775157712" target="774876972" type="directed" id="129" weight="1"></edge>
+<edge source="775161371" target="774237306" type="directed" id="130" weight="1"></edge>
+<edge source="775161454" target="774713542" type="directed" id="131" weight="1"></edge>
+<edge source="775164947" target="774966339" type="directed" id="132" weight="1"></edge>
+<edge source="775176133" target="773390031" type="directed" id="133" weight="1"></edge>
+<edge source="775194873" target="775157712" type="directed" id="134" weight="1"></edge>
+<edge source="775195687" target="774685584" type="directed" id="135" weight="1"></edge>
+<edge source="775205702" target="773525251" type="directed" id="136" weight="1"></edge>
+<edge source="775226558" target="775160643" type="directed" id="137" weight="1"></edge>
+<edge source="775238091" target="775161454" type="directed" id="138" weight="1"></edge>
+<edge source="775238732" target="774685584" type="directed" id="139" weight="1"></edge>
+<edge source="775245354" target="774670044" type="directed" id="140" weight="1"></edge>
+<edge source="775252768" target="774418381" type="directed" id="141" weight="1"></edge>
+<edge source="775257612" target="775240954" type="directed" id="142" weight="1"></edge>
+<edge source="775258314" target="775245354" type="directed" id="143" weight="1"></edge>
+<edge source="775259819" target="773990891" type="directed" id="144" weight="1"></edge>
+<edge source="775268430" target="775194873" type="directed" id="145" weight="1"></edge>
+<edge source="775272832" target="775160643" type="directed" id="146" weight="1"></edge>
+</edges>
+</graph>
+</gexf>

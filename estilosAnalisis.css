@@ -1,0 +1,305 @@
+body {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+	background-color: #CCCCCC;
+}
+
+#cabecera {
+	color:#ffffff;
+	text-shadow:#969696 1px 3px 0px, #aba8a8 1px 13px 5px;
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:20px;
+}
+
+.solapa {
+	
+width:120px;
+height:70px;
+
+-moz-border-radius-topleft: 12px;
+-webkit-border-top-left-radius: 12px;
+ border-top-left-radius: 12px;
+-moz-border-radius-bottomleft: 12px;
+-webkit-border-bottom-left-radius: 12px;
+border-bottom-left-radius: 12px;
+
+border:1px solid black; border-color:#000;
+border-style:solid solid solid solid;
+padding:5px;
+
+background: rgb(69, 198, 255);
+background: -moz-linear-gradient(0deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -webkit-linear-gradient(0deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -o-linear-gradient(0deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -ms-linear-gradient(0deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+
+-webkit-box-shadow: 4px 4px 17px 0px rgba(48, 50, 50, 0.41);
+-moz-box-shadow:    4px 4px 17px 0px rgba(48, 50, 50, 0.41);
+box-shadow:         4px 4px 17px 0px rgba(48, 50, 50, 0.41);
+
+text-align:center;
+
+
+}
+
+.panelDerecho {
+border:1px solid black;
+border-style:solid solid solid solid;
+border-color:#000;
+padding:5px;
+background: #EEE;
+
+-webkit-box-shadow: 4px 4px 17px 0px rgba(48, 50, 50, 0.41);
+-moz-box-shadow:    4px 4px 17px 0px rgba(48, 50, 50, 0.41);
+box-shadow:         4px 4px 17px 0px rgba(48, 50, 50, 0.41);
+
+font-family:Verdana, Geneva, sans-serif;
+font-size:11px;	
+
+width:1125px;
+padding-left:15px;
+
+}
+
+#rejillaPantalla {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;	
+}
+
+.tituloAlerta {
+	color:#000;
+	text-shadow:#969696 1px 1px 0px, #aba8a8 1px 5px 5px;
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	text-decoration:underline;
+
+}
+
+.tituloPanel {
+	color:#E00;
+	text-shadow:#aba8a8 3px 7px 5px;
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:20px;
+}
+
+
+
+.tablaMetricas {
+	margin:10px;padding:0px;
+	width:1090px;
+	border:1px solid #000000;
+	
+	-moz-border-radius-bottomleft:6px;
+	-webkit-border-bottom-left-radius:6px;
+	border-bottom-left-radius:6px;
+	
+	-moz-border-radius-bottomright:6px;
+	-webkit-border-bottom-right-radius:6px;
+	border-bottom-right-radius:6px;
+	
+	-moz-border-radius-topright:6px;
+	-webkit-border-top-right-radius:6px;
+	border-top-right-radius:6px;
+	
+	-moz-border-radius-topleft:6px;
+	-webkit-border-top-left-radius:6px;
+	border-top-left-radius:6px;
+}.tablaMetricas table{
+    border-collapse: collapse;
+        border-spacing: 0;
+	width:100%;
+	height:100%;
+	margin:0px;padding:0px;
+}.tablaMetricas tr:last-child td:last-child {
+	-moz-border-radius-bottomright:6px;
+	-webkit-border-bottom-right-radius:6px;
+	border-bottom-right-radius:6px;
+}
+.tablaMetricas table tr:first-child td:first-child {
+	-moz-border-radius-topleft:6px;
+	-webkit-border-top-left-radius:6px;
+	border-top-left-radius:6px;
+}
+.tablaMetricas table tr:first-child td:last-child {
+	-moz-border-radius-topright:6px;
+	-webkit-border-top-right-radius:6px;
+	border-top-right-radius:6px;
+}.tablaMetricas tr:last-child td:first-child{
+	-moz-border-radius-bottomleft:6px;
+	-webkit-border-bottom-left-radius:6px;
+	border-bottom-left-radius:6px;
+}.tablaMetricas tr:hover td{
+	
+}
+.tablaMetricas tr:nth-child(odd){ background-color:#CCC; }
+.tablaMetricas tr:nth-child(even)    { background-color:#ffffff; }.tablaMetricas td{
+	vertical-align:middle;
+	
+	
+	border:1px solid #000000;
+	border-width:0px 1px 1px 0px;
+	text-align:left;
+	padding:4px;
+	font-size:11px;
+	font-family:Verdana;
+	font-weight:normal;
+	color:#000000;
+}.tablaMetricas tr:last-child td{
+	border-width:0px 1px 0px 0px;
+}.tablaMetricas tr td:last-child{
+	border-width:0px 0px 1px 0px;
+}.tablaMetricas tr:last-child td:last-child{
+	border-width:0px 0px 0px 0px;
+}
+.tablaMetricas tr:first-child td{
+background: rgb(69, 198, 255);
+background: -moz-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -webkit-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -o-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -ms-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: linear-gradient(180deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+
+	border:0px solid #000000;
+	text-align:center;
+	border-width:0px 0px 1px 1px;
+	font-size:12px;
+	font-family:Verdana;
+	font-weight:bold;
+	color:#000;
+}
+.tablaMetricas tr:first-child:hover td{
+background: rgb(69, 198, 255);
+background: -moz-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -webkit-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -o-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -ms-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: linear-gradient(180deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+}
+.tablaMetricas tr:hover td{
+background: rgb(69, 198, 255);
+background: -moz-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -webkit-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -o-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -ms-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: linear-gradient(180deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+}
+.tablaMetricas tr:first-child td:first-child{
+	border-width:0px 0px 1px 0px;
+}
+.tablaMetricas tr:first-child td:last-child{
+	border-width:0px 0px 1px 1px;
+}
+
+
+
+.tablaClasificaciones {
+	margin:10px;padding:0px;
+	width:350px;
+	border:1px solid #000000;
+	
+	-moz-border-radius-bottomleft:6px;
+	-webkit-border-bottom-left-radius:6px;
+	border-bottom-left-radius:6px;
+	
+	-moz-border-radius-bottomright:6px;
+	-webkit-border-bottom-right-radius:6px;
+	border-bottom-right-radius:6px;
+	
+	-moz-border-radius-topright:6px;
+	-webkit-border-top-right-radius:6px;
+	border-top-right-radius:6px;
+	
+	-moz-border-radius-topleft:6px;
+	-webkit-border-top-left-radius:6px;
+	border-top-left-radius:6px;
+}.tablaClasificaciones table{
+    border-collapse: collapse;
+        border-spacing: 0;
+	width:100%;
+	height:100%;
+	margin:0px;padding:0px;
+		font-size:12px;
+
+}.tablaClasificaciones tr:last-child td:last-child {
+	-moz-border-radius-bottomright:6px;
+	-webkit-border-bottom-right-radius:6px;
+	border-bottom-right-radius:6px;
+}
+.tablaClasificaciones table tr:first-child td:first-child {
+	-moz-border-radius-topleft:6px;
+	-webkit-border-top-left-radius:6px;
+	border-top-left-radius:6px;
+}
+.tablaClasificaciones table tr:first-child td:last-child {
+	-moz-border-radius-topright:6px;
+	-webkit-border-top-right-radius:6px;
+	border-top-right-radius:6px;
+}.tablaClasificaciones tr:last-child td:first-child{
+	-moz-border-radius-bottomleft:6px;
+	-webkit-border-bottom-left-radius:6px;
+	border-bottom-left-radius:6px;
+}.tablaClasificaciones tr:hover td{
+	
+}
+.tablaClasificaciones tr:nth-child(odd){ background-color:#CCC; }
+.tablaClasificaciones tr:nth-child(even)    { background-color:#ffffff; }.tablaClasificaciones td{
+	vertical-align:middle;
+	
+	
+	border:1px solid #000000;
+	border-width:0px 1px 1px 0px;
+	/* text-align:left; */
+	padding:4px;
+	font-size:11px;
+	font-family:Verdana;
+	font-weight:normal;
+	color:#000000;
+}.tablaClasificaciones tr:last-child td{
+	border-width:0px 1px 0px 0px;
+}.tablaClasificaciones tr td:last-child{
+	border-width:0px 0px 1px 0px;
+}.tablaClasificaciones tr:last-child td:last-child{
+	border-width:0px 0px 0px 0px;
+}
+.tablaClasificaciones tr:first-child td{
+background: rgb(69, 198, 255);
+background: -moz-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -webkit-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -o-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -ms-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: linear-gradient(180deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+
+	border:0px solid #000000;
+	text-align:center;
+	border-width:0px 0px 1px 1px;
+	font-size:12px;
+	font-family:Verdana;
+	font-weight:bold;
+	color:#000;
+}
+.tablaClasificaciones tr:first-child:hover td{
+background: rgb(69, 198, 255);
+background: -moz-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -webkit-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -o-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -ms-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: linear-gradient(180deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+}
+.tablaClasificaciones tr:hover td{
+background: rgb(69, 198, 255);
+background: -moz-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -webkit-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -o-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: -ms-linear-gradient(90deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+background: linear-gradient(180deg, rgb(69, 198, 255) 0%, rgb(90, 131, 250) 100%);
+}
+.tablaClasificaciones tr:first-child td:first-child{
+	border-width:0px 0px 1px 0px;
+}
+.tablaClasificaciones tr:first-child td:last-child{
+	border-width:0px 0px 1px 1px;
+}
